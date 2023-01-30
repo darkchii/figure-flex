@@ -1,3 +1,308 @@
 [
-    
+    {
+        "name": "Konjiki no Yami",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Yami Swimsuit/WIN_20230130_21_36_28_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Yami Swimsuit/WIN_20230130_21_36_41_Pro.jpg"
+            }
+        ],
+        "description": "xd",
+        "tags": [
+            "swimsuit"
+        ]
+    },
+    {
+        "name": "Sagiri Izumi",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Sagiri Izumi Laundry Basket/WIN_20230130_22_00_06_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Sagiri Izumi Laundry Basket/WIN_20230130_22_00_13_Pro.jpg"
+            },
+            {
+                "name": "Pantyshot",
+                "path": "./Figures/Sagiri Izumi Laundry Basket/WIN_20230130_22_00_36_Pro.jpg"
+            }
+        ],
+        "tags": [
+            "underwear"
+        ]
+    },
+    {
+        "name": "Sagiri Izumi",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Sagiri Izumi Tablet/WIN_20230130_21_58_49_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Sagiri Izumi Tablet/WIN_20230130_21_58_56_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Eris Boreas Greyrat",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Eris Greyrat/WIN_20230130_21_25_10_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Eris Greyrat/WIN_20230130_21_25_21_Pro.jpg"
+            },
+            {
+                "name": "Side",
+                "path": "./Figures/Eris Greyrat/WIN_20230130_21_25_27_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Kurumi Tokisaki",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Kurumi Tokisaki Lingerie/WIN_20230130_21_28_22_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Kurumi Tokisaki Lingerie/WIN_20230130_21_28_22_Pro.jpg"
+            }
+        ],
+        "tags": [
+            "underwear",
+            "lingerie"
+        ]
+    },
+    {
+        "name": "Yuuki Mikan",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Mikan Yuuki Laying/WIN_20230130_21_53_00_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Mikan Yuuki Laying/WIN_20230130_21_28_31_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Megumin",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Megumin Swimsuit/WIN_20230130_21_20_13_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Megumin Swimsuit/WIN_20230130_21_20_43_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Chocola & Vanilla",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Chocola & Vanilla Love Chair/WIN_20230130_21_42_21_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Chocola & Vanilla Love Chair/WIN_20230130_21_42_37_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Chocola",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Chocola Removable Clothes/WIN_20230130_22_05_47_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Vanilla",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Vanilla Removable Clothes/WIN_20230130_22_06_37_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Chocola",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Chocola Swimsuit/WIN_20230130_21_21_49_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Chocola Swimsuit/WIN_20230130_21_22_02_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Vanilla",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Vanilla Swimsuit/WIN_20230130_21_22_18_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Vanilla Swimsuit/WIN_20230130_21_22_29_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Zero Two",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/ZeroTwo Bunny/WIN_20230130_22_08_46_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/ZeroTwo Bunny/WIN_20230130_22_08_54_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Yoko Littner",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Yoko Littner Movable/WIN_20230130_21_57_09_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Yoko Littner Movable/WIN_20230130_21_57_16_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Utuha Kasumigaoka",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Utaha Kasumigaoka/WIN_20230130_22_01_48_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Utaha Kasumigaoka/WIN_20230130_22_01_56_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Sora Kasugano",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Sora Kasugano White Dress/WIN_20230130_21_31_49_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Sora Kasugano White Dress/WIN_20230130_21_32_05_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Shiro (NGNL)",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Shiro/WIN_20230130_21_48_43_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Shiro/WIN_20230130_21_48_53_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Rikka Takarada",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Rikka Takarada/WIN_20230130_21_54_56_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Rikka Takarada/WIN_20230130_21_55_03_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Nayuta Kani",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Nayuta Kani Pillow/WIN_20230130_21_33_46_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Nayuta Kani Pillow/WIN_20230130_21_34_10_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Nakano Nino",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Nakano Nino Swimsuit/WIN_20230130_21_47_14_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Nakano Nino Swimsuit/WIN_20230130_21_47_22_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Nakano Miku",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Nakano Miku Swimsuit/WIN_20230130_21_26_52_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Nakano Miku Swimsuit/WIN_20230130_21_27_00_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Nakano's",
+        "images": [
+            {
+                "name": "Group",
+                "path": "./Figures/Nakano Littles/WIN_20230130_21_45_18_Pro.jpg"
+            }
+        ]
+    },
+    {
+        "name": "Mai Sakurajima",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Mai Sakurajima Bunny/WIN_20230130_22_09_28_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Mai Sakurajima Bunny/WIN_20230130_22_09_40_Pro.jpg"
+            }
+        ]
+    }
 ]
