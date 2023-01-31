@@ -1,6 +1,57 @@
 [
     {
+        "name": "Megami Magazines",
+        "type": "Magazines",
+        "images": [
+            { "name": "02-2009", "path": "./Magazines/02-2009.jpg" },
+            { "name": "03-2009", "path": "./Magazines/03-2009.jpg" },
+            { "name": "04-2009", "path": "./Magazines/04-2009.jpg" },
+            { "name": "07-2009", "path": "./Magazines/07-2009.jpg" },
+            { "name": "06-2012", "path": "./Magazines/06-2012.jpg" },
+            { "name": "08-2012", "path": "./Magazines/08-2012.jpg" },
+            { "name": "01-2015", "path": "./Magazines/01-2015.jpg" },
+            { "name": "07-2015", "path": "./Magazines/07-2015.jpg" },
+            { "name": "10-2015", "path": "./Magazines/10-2015.jpg" },
+            { "name": "08-2016", "path": "./Magazines/08-2016.jpg" },
+            { "name": "12-2016", "path": "./Magazines/12-2016.jpg" },
+            { "name": "02-2017", "path": "./Magazines/02-2017.jpg" },
+            { "name": "06-2017", "path": "./Magazines/06-2017.jpg" },
+            { "name": "12-2017", "path": "./Magazines/12-2017.jpg" },
+            { "name": "03-2018", "path": "./Magazines/03-2018.jpg" },
+            { "name": "06-2018", "path": "./Magazines/06-2018.jpg" },
+            { "name": "07-2018", "path": "./Magazines/07-2018.jpg" },
+            { "name": "08-2018", "path": "./Magazines/08-2018.jpg" },
+            { "name": "09-2018", "path": "./Magazines/09-2018.jpg" },
+            { "name": "10-2018", "path": "./Magazines/10-2018.jpg" },
+            { "name": "11-2018", "path": "./Magazines/11-2018.jpg" }
+        ],
+        "data": [
+            { "name": "Megami Magazine 02-2009", "price": 11.92 },
+            { "name": "Megami Magazine 03-2009", "price": 12.83 },
+            { "name": "Megami Magazine 04-2009", "price": 11.92 },
+            { "name": "Megami Magazine 07-2009", "price": 11.92 },
+            { "name": "Megami Magazine 06-2012", "price": 10.99 },
+            { "name": "Megami Magazine 08-2012", "price": 13.39 },
+            { "name": "Megami Magazine 01-2015", "price": 9.10 },
+            { "name": "Megami Magazine 07-2015", "price": 10.04 },
+            { "name": "Megami Magazine 10-2015", "price": 10.04 },
+            { "name": "Megami Magazine 08-2016", "price": 10.04 },
+            { "name": "Megami Magazine 12-2016", "price": 10.04 },
+            { "name": "Megami Magazine 02-2017", "price": 11.00 },
+            { "name": "Megami Magazine 06-2017", "price": 10.05 },
+            { "name": "Megami Magazine 12-2017", "price": 11.00 },
+            { "name": "Megami Magazine 03-2018", "price": 11.00 },
+            { "name": "Megami Magazine 06-2018", "price": 12.77 },
+            { "name": "Megami Magazine 07-2018", "price": 12.77 },
+            { "name": "Megami Magazine 08-2018", "price": 12.77 },
+            { "name": "Megami Magazine 09-2018", "price": 12.77 },
+            { "name": "Megami Magazine 10-2018", "price": 12.77 },
+            { "name": "Megami Magazine 11-2018", "price": 12.77 }
+        ]
+    },
+    {
         "name": "Konjiki no Yami",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -12,12 +63,21 @@
             }
         ],
         "description": "xd",
+        "data": [
+            {
+                "name": "Yami",
+                "height": 18,
+                "price": 42.99,
+                "source": "https://www.archonia.com/nl-be/artikel/417777/to-love-ru-darkness-pop-up-parade-pvc-figure-golden-darkness"
+            }
+        ],
         "tags": [
             "swimsuit"
         ]
     },
     {
         "name": "Sagiri Izumi",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -32,12 +92,20 @@
                 "path": "./Figures/Sagiri Izumi Laundry Basket/WIN_20230130_22_00_36_Pro.jpg"
             }
         ],
+        "data": [
+            {
+                "name": "Sagiri Izumi",
+                "height": 18,
+                "price": 19.51
+            }
+        ],
         "tags": [
             "underwear"
         ]
     },
     {
         "name": "Sagiri Izumi",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -47,10 +115,39 @@
                 "name": "Back",
                 "path": "./Figures/Sagiri Izumi Tablet/WIN_20230130_21_58_56_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Sagiri Izumi",
+                "height": 23,
+                "price": 22.79
+            }
+        ]
+    },
+    {
+        "name": "Sagiri Izumi",
+        "type": "Figures",
+        "images": [
+            {
+                "name": "Front",
+                "path": "./Figures/Sagiri Izumi Pillow/WIN_20230131_17_04_30_Pro.jpg"
+            },
+            {
+                "name": "Back",
+                "path": "./Figures/Sagiri Izumi Pillow/WIN_20230131_17_04_41_Pro.jpg"
+            }
+        ],
+        "data": [
+            {
+                "name": "Sagiri Izumi",
+                "height": 16,
+                "price": 16.07
+            }
         ]
     },
     {
         "name": "Eris Boreas Greyrat",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -64,10 +161,18 @@
                 "name": "Side",
                 "path": "./Figures/Eris Greyrat/WIN_20230130_21_25_27_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Eris Boreas Greyrat",
+                "height": 18,
+                "price": 27.71
+            }
         ]
     },
     {
         "name": "Kurumi Tokisaki",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -81,10 +186,19 @@
         "tags": [
             "underwear",
             "lingerie"
+        ],
+        "data": [
+            {
+                "name": "Kurumi Tokisaki",
+                "height": 24,
+                "price": 15.94,
+                "source": "https://www.aliexpress.com/item/4000503755326.html?spm=a2g0o.order_list.order_list_main.97.5dc51802N2IEvy"
+            }
         ]
     },
     {
         "name": "Yuuki Mikan",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -92,12 +206,21 @@
             },
             {
                 "name": "Back",
-                "path": "./Figures/Mikan Yuuki Laying/WIN_20230130_21_28_31_Pro.jpg"
+                "path": "./Figures/Mikan Yuuki Laying/WIN_20230130_21_53_09_Pro.jpg"
+            }
+        ],
+        "data": [
+            {
+                "name": "Yuuki Mikan",
+                "height": 22,
+                "price": 20.55,
+                "source": "https://www.aliexpress.com/item/32704158708.html?spm=a2g0o.order_list.order_list_main.102.5dc51802N2IEvy"
             }
         ]
     },
     {
         "name": "Megumin",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -107,10 +230,19 @@
                 "name": "Back",
                 "path": "./Figures/Megumin Swimsuit/WIN_20230130_21_20_43_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Megumin",
+                "height": 18,
+                "price": 42.99,
+                "source": "https://www.archonia.com/en-us/product/414806/konosuba-pop-up-parade-pvc-figure-megumin-swimsuit-ver"
+            }
         ]
     },
     {
         "name": "Chocola & Vanilla",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -120,28 +252,57 @@
                 "name": "Back",
                 "path": "./Figures/Chocola & Vanilla Love Chair/WIN_20230130_21_42_37_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Chocola",
+                "height": 24,
+                "price": 27.77
+            },
+            {
+                "name": "Vanilla",
+                "height": 24,
+                "price": 27.77
+            }
         ]
     },
     {
         "name": "Chocola",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
                 "path": "./Figures/Chocola Removable Clothes/WIN_20230130_22_05_47_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Chocola",
+                "height": 24,
+                "price": 34.39
+            }
         ]
     },
     {
         "name": "Vanilla",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
                 "path": "./Figures/Vanilla Removable Clothes/WIN_20230130_22_06_37_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Vanilla",
+                "height": 24,
+                "price": 34.39
+            }
         ]
     },
     {
         "name": "Chocola",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -151,10 +312,19 @@
                 "name": "Back",
                 "path": "./Figures/Chocola Swimsuit/WIN_20230130_21_22_02_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Chocola",
+                "height": 17,
+                "price": 12.04,
+                "source": "https://www.aliexpress.com/item/4000073018154.html?spm=a2g0o.order_detail.order_detail_item.5.79196d76NoDRbe"
+            }
         ]
     },
     {
         "name": "Vanilla",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -164,10 +334,19 @@
                 "name": "Back",
                 "path": "./Figures/Vanilla Swimsuit/WIN_20230130_21_22_29_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Vanilla",
+                "height": 17,
+                "price": 12.04,
+                "source": "https://www.aliexpress.com/item/4000073018154.html?spm=a2g0o.order_detail.order_detail_item.5.79196d76NoDRbe"
+            }
         ]
     },
     {
         "name": "Zero Two",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -177,10 +356,18 @@
                 "name": "Back",
                 "path": "./Figures/ZeroTwo Bunny/WIN_20230130_22_08_54_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Zero Two",
+                "height": 43,
+                "price": 38.79
+            }
         ]
     },
     {
         "name": "Yoko Littner",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -190,10 +377,18 @@
                 "name": "Back",
                 "path": "./Figures/Yoko Littner Movable/WIN_20230130_21_57_16_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Yoko Littner",
+                "height": 17,
+                "price": 46.33
+            }
         ]
     },
     {
         "name": "Utuha Kasumigaoka",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -203,10 +398,18 @@
                 "name": "Back",
                 "path": "./Figures/Utaha Kasumigaoka/WIN_20230130_22_01_56_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Utuha Kasumigaoka",
+                "height": 22,
+                "price": 18.78
+            }
         ]
     },
     {
         "name": "Sora Kasugano",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -216,10 +419,18 @@
                 "name": "Back",
                 "path": "./Figures/Sora Kasugano White Dress/WIN_20230130_21_32_05_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Sora Kasugano",
+                "height": 15,
+                "price": 24.90
+            }
         ]
     },
     {
         "name": "Shiro (NGNL)",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -229,10 +440,18 @@
                 "name": "Back",
                 "path": "./Figures/Shiro/WIN_20230130_21_48_53_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Shiro",
+                "height": 16.5,
+                "price": 13.08
+            }
         ]
     },
     {
         "name": "Rikka Takarada",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -242,10 +461,19 @@
                 "name": "Back",
                 "path": "./Figures/Rikka Takarada/WIN_20230130_21_55_03_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Rikka Takarada",
+                "height": 18,
+                "price": 24.99,
+                "source": "https://www.archonia.com/en-us/product/342180/ssssgridman-special-pvc-figure-takarada-rikka"
+            }
         ]
     },
     {
         "name": "Nayuta Kani",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -255,10 +483,19 @@
                 "name": "Back",
                 "path": "./Figures/Nayuta Kani Pillow/WIN_20230130_21_34_10_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Nayuta Kani",
+                "height": 16,
+                "price": 41.07,
+                "source": "https://www.amazon.de/-/en/gp/product/B08NCHM1Y6/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1"
+            }
         ]
     },
     {
         "name": "Nakano Nino",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -268,10 +505,19 @@
                 "name": "Back",
                 "path": "./Figures/Nakano Nino Swimsuit/WIN_20230130_21_47_22_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Nakano Nino",
+                "height": 19,
+                "price": 26.34,
+                "source": "https://www.aliexpress.com/item/1005002585271189.html?spm=a2g0o.order_detail.order_detail_item.5.1fcaf19czWi2I5"
+            }
         ]
     },
     {
         "name": "Nakano Miku",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -281,19 +527,37 @@
                 "name": "Back",
                 "path": "./Figures/Nakano Miku Swimsuit/WIN_20230130_21_27_00_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Nakano Miku",
+                "height": 19,
+                "price": 25.28,
+                "source": "https://www.aliexpress.com/item/1005002585271189.html?spm=a2g0o.order_detail.order_detail_item.5.1fcaf19czWi2I5"
+            }
         ]
     },
     {
         "name": "Nakano's",
+        "type": "Figures",
         "images": [
             {
                 "name": "Group",
                 "path": "./Figures/Nakano Littles/WIN_20230130_21_45_18_Pro.jpg"
             }
+        ],
+        "data": [
+            {
+                "name": "Nakano's",
+                "height": 5,
+                "price": 9.97,
+                "source": "https://www.aliexpress.com/item/1005002828495065.html?spm=a2g0o.order_list.order_list_main.42.5dc51802N2IEvy"
+            }
         ]
     },
     {
         "name": "Mai Sakurajima",
+        "type": "Figures",
         "images": [
             {
                 "name": "Front",
@@ -302,6 +566,14 @@
             {
                 "name": "Back",
                 "path": "./Figures/Mai Sakurajima Bunny/WIN_20230130_22_09_40_Pro.jpg"
+            }
+        ],
+        "data": [
+            {
+                "name": "Mai Sakurajima",
+                "height": 40,
+                "price": 35.27,
+                "source": "https://www.aliexpress.com/item/1005001476195239.html?spm=a2g0o.order_list.order_list_main.82.5dc51802N2IEvy"
             }
         ]
     }
